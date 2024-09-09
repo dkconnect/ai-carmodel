@@ -1,4 +1,3 @@
-This is the code  convert it to me and make it adaptive for flask                                                 import math
 import random
 import sys
 import os
